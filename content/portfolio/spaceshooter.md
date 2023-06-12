@@ -13,7 +13,7 @@ image: snapshots/spaceshooter/scene02501.png
 
 ># Screenshots
 >
-> {{< gallery-slider2 dir="/snapshots/spaceshooter/"width="600px" height="350px" auto-slide="4000" >}}
+> {{< gallery-slider2 dir="snapshots/spaceshooter/"width="600px" height="350px" auto-slide="4000" >}}
 
 > # Description
 >

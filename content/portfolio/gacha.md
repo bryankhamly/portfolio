@@ -14,7 +14,7 @@ image: snapshots/gacha/1.png
 
 ># Screenshots
 >
-> {{< gallery-slider9 dir="/snapshots/gacha/"width="600px" height="350px" auto-slide="6000" >}}
+> {{< gallery-slider9 dir="snapshots/gacha/"width="600px" height="350px" auto-slide="6000" >}}
 
 
 > # Description

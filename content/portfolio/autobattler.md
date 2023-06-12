@@ -13,7 +13,7 @@ image: snapshots/2dautobattler/1.png
 
 ># Screenshots
 >
-> {{< gallery-slider dir="/snapshots/2dautobattler/"width="600px" height="350px" auto-slide="4000" >}}
+> {{< gallery-slider dir="snapshots/2dautobattler/"width="600px" height="350px" auto-slide="4000" >}}
 
 > # Description
 >

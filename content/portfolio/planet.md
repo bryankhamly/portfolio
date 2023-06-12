@@ -13,7 +13,7 @@ image: snapshots/planet/pilogo.jpg
 
 ># Screenshots
 >
-> {{< gallery-slider7 dir="/snapshots/planet/"width="600px" height="350px" auto-slide="4000" >}}
+> {{< gallery-slider7 dir="snapshots/planet/"width="600px" height="350px" auto-slide="4000" >}}
 
 > # Description
 >

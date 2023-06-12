@@ -13,7 +13,7 @@ image: snapshots/magicfps/scene02045.png
 
 ># Screenshots
 >
-> {{< gallery-slider6 dir="/snapshots/magicfps/"width="600px" height="350px" auto-slide="4000" >}}
+> {{< gallery-slider6 dir="snapshots/magicfps/"width="600px" height="350px" auto-slide="4000" >}}
 
 > # Description
 >

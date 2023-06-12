@@ -13,7 +13,7 @@ image: snapshots/beu/scene00001.png
 
 ># Screenshots
 >
-> {{< gallery-slider3 dir="/snapshots/beu/"width="600px" height="350px" auto-slide="3500" >}}
+> {{< gallery-slider3 dir="snapshots/beu/"width="600px" height="350px" auto-slide="3500" >}}
 
 > # Description
 >

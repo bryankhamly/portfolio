@@ -13,7 +13,7 @@ image: snapshots/souls/scene05001.png
 
 ># Screenshots
 >
-> {{< gallery-slider5 dir="/snapshots/souls/"width="600px" height="350px" auto-slide="4000" >}}
+> {{< gallery-slider5 dir="snapshots/souls/"width="600px" height="350px" auto-slide="4000" >}}
 
 > # Description
 >
