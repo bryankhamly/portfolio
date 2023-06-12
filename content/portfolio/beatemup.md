@@ -20,3 +20,6 @@ image: snapshots/beu/scene00001.png
 > - Team Game Jam Project
 > - Collaborated with a team of artists to make a game for a game jam
 > - Winner of LCAD Hot Jam 2021
+
+
+> # Play it here: https://bryankhamly.itch.io/hot-pot-rampage-webgl
