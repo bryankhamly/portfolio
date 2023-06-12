@@ -18,4 +18,4 @@ image: snapshots/2dautobattler/1.png
 > # Description
 >
 > - Solo Personal Project
-> - A simple 2D auto-battler prototype where the player can combine units with economy to create better units.
+> - A simple 2D auto-battler prototype where the player can combine units with economy to create better quality units.
