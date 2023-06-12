@@ -15,7 +15,7 @@ image: snapshots/team73/hue.png
 
 ># Screenshots
 >
-> {{< gallery-slider8 dir="/snapshots/team73/"width="600px" height="350px" auto-slide="4000" >}}
+> {{< gallery-slider8 dir="static/snapshots/team73/"width="600px" height="350px" auto-slide="4000" >}}
 
 > # Description
 >
