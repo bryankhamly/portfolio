@@ -1,6 +1,6 @@
 # General Settings
 title = "Bryan Khamly"
-baseURL = "" #YOUR SITE URL
+baseURL = "https://bryankhamly.github.io/portfolio/" #YOUR SITE URL
 languageCode = "en-us"
 theme = "ryancv"
 resourceDir = "resources"
