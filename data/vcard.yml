@@ -14,7 +14,7 @@ main:
   buttons:
     - title: "Download Resume"
       icon: "ion ion-archive"
-      url: "/images/resume-bryankhamly.pdf"
+      url: "images/resume-bryankhamly.pdf"
     - title: "Email Me"
       icon: "arrow"
       url: "mailto:bryankhamly@gmail.com"
