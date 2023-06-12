@@ -1,0 +1,20 @@
+main:
+  bgimage: "images/dank/bg.jpg"
+  photo: "images/dank/profile.jpg"
+  name: "Bryan Khamly"
+  typed:
+    - text: "Software Engineer"
+    - text: "Game Programmer"
+    - text: "DevOps/Backend Engineer"
+    - text: "Network Programmer"
+  social:
+    - title: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/bryankhamly/"
+  buttons:
+    - title: "Download Resume"
+      icon: "ion ion-archive"
+      url: "/images/resume-bryankhamly.pdf"
+    - title: "Email Me"
+      icon: "arrow"
+      url: "mailto:bryankhamly@gmail.com"

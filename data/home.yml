@@ -1,0 +1,172 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### About [ about ]
+about:
+  title: "About Me"
+  text: "
+        <p>
+          I'm a reliable programmer who's worked in the video game industry.
+          I have experience in working in an Agile environment and I take the initiative to create tools to help designers on the project. 
+          I enjoy working on game development projects, and expanding my knowledge on new software engineering technologies to improve my workflow.
+        </p>
+        "
+  list:
+    - label: "Location"
+      value: "Orange County, California, USA"
+
+services:
+  title: "Development"
+  items:
+    - icon: "ion-ios-game-controller-b"
+      name: "Game Development"
+      text: "I have experience creating games in Unity, for multiple platforms including PC, Mobile and Console"
+      h_line: 1
+
+    - icon: "ion-laptop"
+      name: "Software Development"
+      text: "I have experience creating tools in Visual Studio providing SAAS"
+      h_line: 1
+
+facts:
+  title: "Awards and Achievements"
+  items:
+    - icon: "ion-trophy"
+      name: "UCLA Hackathon 2018 - Best Unity Hack"
+    - icon: "ion-trophy"
+      name: "LCAD GameJam2021 - Winner"
+
+### Clients [ clients ]
+clients:
+  title: "Game Engines"
+  items:
+    - url: "https://unity.com"
+      image: "images/unity.png"
+      title: "Unity"
+
+### Resume [ resume ]
+resume:
+  title: "Resume"
+  experience:
+    title: "Experience"
+    icon: "ion-briefcase"
+    items:
+      - year: "2021 - 2023"
+        role: "Lead Programmer"
+        company: "Team73 LLC"
+        text: "Core Gameplay Systems, and Multiplayer on an open world procedurally generated adventure sandbox. Project on hold looking for animators and funding."
+        active: 1
+        h_line: 1
+
+      - year: "May 2020 - Oct 2020"
+        role: "Lead Programmer"
+        company: "One Tap Studios"
+        text: "Lead and managed a team of people to create a multi-player survival game, Collaborated with artists to create gameplay systems and building mechanics, Interested investors include PlayVentures, Tencent and Gamigo"
+        active: 1
+        h_line: 1
+
+      - year: "2019 - 2020"
+        role: "Software Engineer"
+        company: "Broken Circle Studios"
+        text: "Full Stack Engineer who worked on mobile games and created an administrative dashboard to manage user data. Also worked on Osiris New Dawn game systems and console optimization."
+        active: 1
+        h_line: 0
+  education:
+    title: "Education"
+    icon: "ion-university"
+    items:
+      - year: "2018 - 2019"
+        institution: "Norco College"
+        city: "Norco, California"
+        text: "Computer Science and Game Programming"
+        h_line: 1
+
+      - year: ""
+        institution: "Self Taught"
+        text: "General Programming"
+        h_line: 1
+
+### Skills [ skills ]
+skills:
+  title: "Skills"
+  columns:
+    - type: "default" #skills progress type - default, dotted, circles, list
+      title: "Design"
+      icon: "ion-easel"
+      items:
+        - label: "Systems Design"
+          value: "100" #0-100 progress in %
+        - label: "Game Design"
+          value: "90" #0-100 progress in %
+        - label: "UI Design"
+          value: "80" #0-100 progress in %
+
+    - type: "dotted" #skills progress type - default, dotted, circles, list
+      title: "Languages"
+      icon: "ion-flag"
+      items:
+        - label: "English"
+          value: "100"
+        - label: "Lao"
+          value: "73"
+
+    - type: "list" #skills progress type - default, dotted, circles, list
+      title: "Coding"
+      icon: "ion-code"
+      items:
+        - label: "C#"
+          value: "90"
+
+        - label: "Python"
+          value: "90"
+
+        - label: "C++"
+          value: "75"
+
+        - label: "JavaScript"
+          value: "85"
+
+        - label: "PHP"
+          value: "95"
+
+        - label: "MySQL"
+          value: "95"
+
+    - type: "list" #skills progress type - default, dotted, circles, list
+      title: "Knowledge"
+      icon: "ion-android-list"
+      items:
+        - label: "Unity"
+          value: ""
+
+        - label: "PC/Mobile/Console Development"
+          value: ""
+
+        - label: "Agile"
+          value: ""
+
+        - label: "REST"
+          value: ""
+
+        - label: "Google Firebase"
+          value: ""
+
+        - label: "DevOps"
+          value: ""
+
+### Portfolio [ portfolio ]
+portfolio:
+  title: "Projects"
+
+### Blog [ blog ]
+blog:
+  title: "Latest Posts"
+
+### Contact Info List [ contacts-info ]
+contacts_info:
+  title: "Contact Info"
+  list:
+    - label: "Email"
+      value: "bryankhamly@gmail.com"
