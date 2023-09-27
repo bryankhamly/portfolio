@@ -1,5 +1,5 @@
 ---
-title: ~Mobile App Gacha Game Framework
+title: Mobile App Gacha Game Framework
 category: Unity
 category_slug: unity
 source: content

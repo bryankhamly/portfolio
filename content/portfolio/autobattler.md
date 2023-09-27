@@ -1,5 +1,5 @@
 ---
-title: 2D AutoBattler
+title: Tactical Auto-Battler
 category: Unity
 category_slug: unity
 source: content

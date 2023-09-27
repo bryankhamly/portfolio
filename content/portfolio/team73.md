@@ -1,5 +1,5 @@
 ---
-title: ~Unannounced Multiplayer Procedurally Generated Adventure Sandbox
+title: Multiplayer Procedurally Generated Adventure Sandbox
 category: Unity
 category_slug: unity
 source: content
@@ -22,4 +22,4 @@ image: snapshots/team73/hue.png
 > - Team Project
 > - Stylized Procedurally Generated World
 > - Multiplayer Adventure Sandbox
-> - Development on hold, looking for animators
+> - In development, personal group project

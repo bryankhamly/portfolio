@@ -22,12 +22,12 @@ services:
   items:
     - icon: "ion-ios-game-controller-b"
       name: "Game Development"
-      text: "I have experience creating games in Unity, for multiple platforms including PC, Mobile and Console"
+      text: "I have experience creating games in Unity, Unreal and Godot engines, for multiple platforms including PC, Mobile and Console"
       h_line: 1
 
     - icon: "ion-laptop"
       name: "Software Development"
-      text: "I have experience creating tools in Visual Studio providing SAAS"
+      text: "I have experience creating tools in Visual Studio providing SAAS, as well as backend and CRUD development using NodeJS"
       h_line: 1
 
 facts:
@@ -45,6 +45,12 @@ clients:
     - url: "https://unity.com"
       image: "images/unity.png"
       title: "Unity"
+    - url: "https://unrealengine.com"
+      image: "images/unreal.png"
+      title: "Unreal"
+    - url: "https://https://godotengine.org"
+      image: "images/godot.png"
+      title: "Godot"
 
 ### Resume [ resume ]
 resume:
@@ -54,14 +60,14 @@ resume:
     icon: "ion-briefcase"
     items:
       - year: "2021 - 2023"
-        role: "Lead Programmer"
+        role: "Game Programmer"
         company: "Team73 LLC"
-        text: "Core Gameplay Systems, and Multiplayer on an open world procedurally generated adventure sandbox. Project on hold looking for animators and funding."
+        text: "Core Gameplay Systems, and Multiplayer on an open world procedurally generated adventure sandbox."
         active: 1
         h_line: 1
 
       - year: "May 2020 - Oct 2020"
-        role: "Lead Programmer"
+        role: "Game Programmer"
         company: "One Tap Studios"
         text: "Lead and managed a team of people to create a multi-player survival game, Collaborated with artists to create gameplay systems and building mechanics, Interested investors include PlayVentures, Tencent and Gamigo"
         active: 1
@@ -77,7 +83,7 @@ resume:
     title: "Education"
     icon: "ion-university"
     items:
-      - year: "2018 - 2019"
+      - year: "2018"
         institution: "Norco College"
         city: "Norco, California"
         text: "Computer Science and Game Programming"
@@ -116,29 +122,23 @@ skills:
       title: "Coding"
       icon: "ion-code"
       items:
+        - label: "C++"
+          value: "90"
+
         - label: "C#"
           value: "90"
 
-        - label: "Python"
-          value: "90"
-
-        - label: "C++"
+        - label: "JavaScript"
           value: "75"
 
-        - label: "JavaScript"
+        - label: "Python"
           value: "85"
-
-        - label: "PHP"
-          value: "95"
-
-        - label: "MySQL"
-          value: "95"
 
     - type: "list" #skills progress type - default, dotted, circles, list
       title: "Knowledge"
       icon: "ion-android-list"
       items:
-        - label: "Unity"
+        - label: "Unity - Unreal - Godot"
           value: ""
 
         - label: "PC/Mobile/Console Development"
@@ -150,7 +150,7 @@ skills:
         - label: "REST"
           value: ""
 
-        - label: "Google Firebase"
+        - label: "CRUD"
           value: ""
 
         - label: "DevOps"

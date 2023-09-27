@@ -132,6 +132,9 @@ slug = "unity"
 name = "Unreal"
 slug = "unreal"
 [[params.portfolio.filters]]
+name = "Godot"
+slug = "godot"
+[[params.portfolio.filters]]
 name = "Other"
 slug = "other"
 

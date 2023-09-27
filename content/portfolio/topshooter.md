@@ -1,5 +1,5 @@
 ---
-title: 3D Topdown Shooter
+title: Topdown Shooter
 category: Unity
 category_slug: unity
 source: content

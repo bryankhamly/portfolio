@@ -1,5 +1,5 @@
 ---
-title: 2D Space Shooter
+title: Space Shooter
 category: Unity
 category_slug: unity
 source: content

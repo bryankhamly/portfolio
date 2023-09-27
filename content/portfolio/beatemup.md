@@ -1,5 +1,5 @@
 ---
-title: 2D Beat Em Up
+title: Beat Em Up
 category: Unity
 category_slug: unity
 source: content

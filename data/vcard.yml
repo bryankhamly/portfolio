@@ -4,7 +4,7 @@ main:
   name: "Bryan Khamly"
   typed:
     - text: "Software Engineer"
-    - text: "Game Programmer"
+    - text: "Gameplay/Systems Programmer"
     - text: "DevOps/Backend Engineer"
     - text: "Network Programmer"
   social:
@@ -14,7 +14,7 @@ main:
   buttons:
     - title: "Download Resume"
       icon: "ion ion-archive"
-      url: "images/resume-bryankhamly.pdf"
+      url: "images/resume-bryan-khamly.pdf"
     - title: "Email Me"
       icon: "arrow"
       url: "mailto:bryankhamly@gmail.com"
