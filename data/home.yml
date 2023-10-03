@@ -89,11 +89,6 @@ resume:
         text: "Computer Science and Game Programming"
         h_line: 1
 
-      - year: ""
-        institution: "Self Taught"
-        text: "General Programming"
-        h_line: 1
-
 ### Skills [ skills ]
 skills:
   title: "Skills"
