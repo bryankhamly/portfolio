@@ -8,7 +8,7 @@ image: snapshots/planet/pilogo.jpg
 
 > # Video
 >
-> {{< streamable id="irdlfb" autoplay="0" loop="0" >}}
+> {{< streamable id="bt7gfp" autoplay="0" loop="0" >}}
 
 
 ># Screenshots

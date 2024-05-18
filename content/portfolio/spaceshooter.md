@@ -8,7 +8,7 @@ image: snapshots/spaceshooter/scene02501.png
 
 > # Video
 >
-> {{< streamable id="zc1j2g" autoplay="0" loop="0" >}}
+> {{< streamable id="spt9yk" autoplay="0" loop="0" >}}
 
 
 ># Screenshots

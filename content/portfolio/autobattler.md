@@ -8,8 +8,7 @@ image: snapshots/2dautobattler/1.png
 
 > # Video
 >
-> {{< streamable id="ny3r2u" autoplay="0" loop="0" >}}
-
+> {{< streamable id="rhvcvt" autoplay="0" loop="0" >}}
 
 ># Screenshots
 >

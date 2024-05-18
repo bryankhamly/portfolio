@@ -7,8 +7,7 @@ image: images/osiris.jpg
 ---
 
 > # Video
->
-> {{< streamable id="dud8ri" autoplay="0" loop="0" >}}
+> {{< streamable id="9xavqy" autoplay="0" loop="0" >}}
 
 ># Screenshots
 >
